@@ -6,4 +6,10 @@ click *[here](https://www.markdownguide.org)* to open markdownguide.
 
 This is footnote [^1]
 
+~~OSSW~~[^2]
+==highlight==[^3]
+
+
 [^1]: example of footnote.
+[^2]: Use '~~' text '~~'
+[^3]: Use '==' text '=='
