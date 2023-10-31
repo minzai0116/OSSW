@@ -3,3 +3,7 @@
 This is [Sejong](http://www.sejong.ac.kr)
 
 click *[here](https://www.markdownguide.org)* to open markdownguide. 
+
+This is footnote [^1]
+
+[^1]: example of footnote.
