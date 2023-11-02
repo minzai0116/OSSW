@@ -2,3 +2,5 @@ servers:
   - server1:
     name: KMJ
     date: 2023.11.2
+-version: [1,2,3,4]
+
